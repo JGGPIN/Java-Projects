@@ -1,2 +1,2 @@
 # Java-Projects
-Meus programas de java feitos desde o início.
+Meus programas de java, todas feitas em meu primeiro semestre da faculdade.
